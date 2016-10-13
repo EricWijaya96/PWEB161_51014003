@@ -1,0 +1,9 @@
++10 tugas selesai min 5 lagu.
++10 untuk 5 link ok.
+-1 untuk 1 lagu tanpa gambar.
++2 background index.
++5 untuk 5 halaman lagu yang bisa back ke index html.
++2 untuk judul lagu yang link ke wikipedia.Contoh naik kereta api = kereta api yang di link.
++2 link ke facebook anda dari hal index.
+
+Total = 30
