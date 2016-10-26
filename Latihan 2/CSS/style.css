@@ -1,0 +1,107 @@
+body 
+{
+    background-image: url("http://static8.depositphotos.com/1278966/854/i/950/depositphotos_8548177-Blue-music-background.jpg");
+    background-size: 1800px 1300px;
+}
+img                 
+{
+	width: 300px;                  
+	border-radius: 8px;
+	border: 1px solid black;
+}
+
+h1                 
+{
+	color: #ff8c00;
+	font-weight: bold;
+	font-size: 32px;
+	font-family: Verdana;
+
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 1000px;
+    margin-left: 10px;
+    background-color: gold;
+}
+
+ .judulutama      
+{
+	color: #ff0000;
+	font-weight: bold;
+	font-size: 48px;
+	font-family: Georgia;
+
+    width: 350px;
+    height: 60px;
+    background-color: gold;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+p                
+{
+	width: 300px;
+    background-color: #e0ffff;
+    border: 25px solid skyblue;
+    padding: 25px;
+    margin: 25px;
+}
+ol              
+{
+	width: 300px;
+	background: #1e90ff;
+    padding: 30px;
+    margin: 30px;
+}
+
+ol li          
+{
+    background: #cce5ff;
+    margin: 5px;
+    p.dotted {outline-style: dotted;}
+}
+
+a:hover, a:active {
+    background-color: yellow;
+}
+
+a:link, a:visited {
+    background-color: #7b68ee;
+    color: white;
+    text-decoration: none;
+    margin: 0px;
+    width: 0px;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #7b68ee;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #7b68ee}
+
+.button:active 
+{
+  background-color: #7b68ee;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+
+
+
