@@ -1,0 +1,8 @@
+Theme : Freelancer (https://startbootstrap.com/template-overviews/freelancer/)
+
++10 untuk tugas yang di commit terakhir selambatnya tanggal 09/11/16 23:59:59.
++30 untuk setiap selector them yang di overide.
++6 untuk setiap class yang dibuat sendiri (nama baru, bukan override).
+
+
+
