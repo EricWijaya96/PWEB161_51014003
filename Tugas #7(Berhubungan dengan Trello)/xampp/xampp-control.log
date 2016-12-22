@@ -1,0 +1,614 @@
+8:47:37 AM  [main] 	Initializing Control Panel
+8:47:37 AM  [main] 	Windows Version:   64-bit
+8:47:37 AM  [main] 	XAMPP Version: 1.8.1
+8:47:37 AM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+8:47:37 AM  [main] 	Running with Administrator rights - good!
+8:47:37 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:47:37 AM  [main] 	Checking for prerequisites
+8:47:51 AM  [main] 	All prerequisites found
+8:47:51 AM  [main] 	Initializing Modules
+8:47:51 AM  [main] 	Starting Check-Timer
+8:47:51 AM  [main] 	Control Panel Ready
+8:50:15 AM  [filezilla] 	Attempting to start FileZilla app...
+8:50:15 AM  [filezilla] 	Status change detected: running
+8:52:07 AM  [mysql] 	Attempting to start MySQL app...
+8:52:16 AM  [mysql] 	Status change detected: running
+8:52:28 AM  [Apache] 	Attempting to start Apache app...
+8:52:29 AM  [Apache] 	Status change detected: running
+9:58:08 AM  [main] 	Deinitializing Modules
+9:58:08 AM  [main] 	Deinitializing Control Panel
+
+9:02:13 AM  [main] 	Initializing Control Panel
+9:02:13 AM  [main] 	Windows Version:   64-bit
+9:02:13 AM  [main] 	XAMPP Version: 1.8.1
+9:02:13 AM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+9:02:13 AM  [main] 	You are not running with administrator rights! This will work for
+9:02:13 AM  [main] 	most application stuff but whenever you do something with services
+9:02:13 AM  [main] 	there will be a security dialogue or things will break! So think 
+9:02:13 AM  [main] 	about running this application with administrator rights!
+9:02:13 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:02:13 AM  [main] 	Checking for prerequisites
+9:02:22 AM  [main] 	All prerequisites found
+9:02:22 AM  [main] 	Initializing Modules
+9:02:22 AM  [main] 	Starting Check-Timer
+9:02:22 AM  [main] 	Control Panel Ready
+9:02:26 AM  [Apache] 	Attempting to start Apache app...
+9:02:26 AM  [Apache] 	Status change detected: running
+9:02:27 AM  [mysql] 	Attempting to start MySQL app...
+9:02:28 AM  [filezilla] 	Attempting to start FileZilla app...
+9:02:29 AM  [mysql] 	Status change detected: running
+9:02:29 AM  [filezilla] 	Status change detected: running
+9:02:31 AM  [Tomcat] 	Attempting to start Tomcat app...
+9:04:12 AM  [Tomcat] 	Attempting to start Tomcat app...
+9:04:14 AM  [mercury] 	Attempting to start Mercury app...
+9:04:17 AM  [mercury] 	Status change detected: running
+9:18:11 AM  [Tomcat] 	Tomcat Started/Stopped with errors, return code: -1073741510
+9:18:11 AM  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+9:18:11 AM  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+9:18:11 AM  [Tomcat] 	Tomcat Started/Stopped with errors, return code: -1073741510
+9:18:11 AM  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+9:18:11 AM  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+10:06:03 AM  [main] 	Deinitializing Modules
+10:06:03 AM  [main] 	Deinitializing Control Panel
+
+10:05:15 PM  [main] 	Initializing Control Panel
+10:05:15 PM  [main] 	Windows Version:   64-bit
+10:05:15 PM  [main] 	XAMPP Version: 1.8.1
+10:05:15 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+10:05:15 PM  [main] 	You are not running with administrator rights! This will work for
+10:05:15 PM  [main] 	most application stuff but whenever you do something with services
+10:05:15 PM  [main] 	there will be a security dialogue or things will break! So think 
+10:05:15 PM  [main] 	about running this application with administrator rights!
+10:05:15 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:05:16 PM  [main] 	Checking for prerequisites
+10:05:24 PM  [main] 	All prerequisites found
+10:05:24 PM  [main] 	Initializing Modules
+10:05:24 PM  [main] 	Starting Check-Timer
+10:05:24 PM  [main] 	Control Panel Ready
+10:05:32 PM  [filezilla] 	Status change detected: running
+10:05:34 PM  [mysql] 	Status change detected: running
+10:05:37 PM  [Apache] 	Status change detected: running
+10:05:38 PM  [mercury] 	Status change detected: running
+10:05:48 PM  [mercury] 	Attempting to stop Mercury (PID: 15280)
+10:05:49 PM  [mercury] 	Status change detected: stopped
+10:29:04 PM  [main] 	Deinitializing Modules
+10:29:04 PM  [main] 	Deinitializing Control Panel
+
+1:20:10 PM  [main] 	Initializing Control Panel
+1:20:10 PM  [main] 	Windows Version:   64-bit
+1:20:10 PM  [main] 	XAMPP Version: 1.8.1
+1:20:10 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+1:20:10 PM  [main] 	You are not running with administrator rights! This will work for
+1:20:10 PM  [main] 	most application stuff but whenever you do something with services
+1:20:10 PM  [main] 	there will be a security dialogue or things will break! So think 
+1:20:10 PM  [main] 	about running this application with administrator rights!
+1:20:10 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+1:20:11 PM  [main] 	Checking for prerequisites
+1:20:11 PM  [main] 	All prerequisites found
+1:20:11 PM  [main] 	Initializing Modules
+1:20:11 PM  [main] 	Starting Check-Timer
+1:20:11 PM  [main] 	Control Panel Ready
+2:09:31 PM  [main] 	Deinitializing Modules
+2:09:31 PM  [main] 	Deinitializing Control Panel
+
+3:25:41 PM  [main] 	Initializing Control Panel
+3:25:41 PM  [main] 	Windows Version:   64-bit
+3:25:41 PM  [main] 	XAMPP Version: 1.8.1
+3:25:41 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+3:25:41 PM  [main] 	Running with Administrator rights - good!
+3:25:41 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+3:25:41 PM  [main] 	Checking for prerequisites
+3:25:50 PM  [main] 	All prerequisites found
+3:25:50 PM  [main] 	Initializing Modules
+3:25:50 PM  [main] 	Starting Check-Timer
+3:25:50 PM  [main] 	Control Panel Ready
+3:58:32 PM  [main] 	Deinitializing Modules
+3:58:32 PM  [main] 	Deinitializing Control Panel
+
+4:37:46 PM  [main] 	Initializing Control Panel
+4:37:46 PM  [main] 	Windows Version:   64-bit
+4:37:46 PM  [main] 	XAMPP Version: 1.8.1
+4:37:46 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+4:37:46 PM  [main] 	You are not running with administrator rights! This will work for
+4:37:46 PM  [main] 	most application stuff but whenever you do something with services
+4:37:46 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:37:46 PM  [main] 	about running this application with administrator rights!
+4:37:46 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:37:46 PM  [main] 	Checking for prerequisites
+4:38:21 PM  [main] 	All prerequisites found
+4:38:21 PM  [main] 	Initializing Modules
+4:38:21 PM  [main] 	Starting Check-Timer
+4:38:21 PM  [main] 	Control Panel Ready
+4:43:51 PM  [mysql] 	Attempting to start MySQL app...
+4:44:04 PM  [mysql] 	Status change detected: running
+4:44:04 PM  [mysql] 	Attempting to stop MySQL (PID: 8980)
+4:44:04 PM  [mysql] 	Status change detected: stopped
+4:44:05 PM  [mysql] 	Attempting to start MySQL app...
+4:44:06 PM  [mysql] 	Status change detected: running
+4:44:09 PM  [filezilla] 	Attempting to start FileZilla app...
+4:44:10 PM  [filezilla] 	Status change detected: running
+4:44:11 PM  [Apache] 	Attempting to start Apache app...
+4:44:11 PM  [Apache] 	Status change detected: running
+6:33:58 PM  [Apache] 	Attempting to stop Apache (PID: 3408)
+6:33:58 PM  [Apache] 	Status change detected: stopped
+6:33:59 PM  [mysql] 	Attempting to stop MySQL (PID: 9116)
+6:33:59 PM  [mysql] 	Status change detected: stopped
+6:34:00 PM  [filezilla] 	Attempting to stop FileZilla app...
+6:34:01 PM  [filezilla] 	Status change detected: stopped
+9:38:16 PM  [main] 	Deinitializing Modules
+9:38:16 PM  [main] 	Deinitializing Control Panel
+
+6:23:07 PM  [main] 	Initializing Control Panel
+6:23:07 PM  [main] 	Windows Version:   64-bit
+6:23:07 PM  [main] 	XAMPP Version: 1.8.1
+6:23:07 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+6:23:07 PM  [main] 	You are not running with administrator rights! This will work for
+6:23:07 PM  [main] 	most application stuff but whenever you do something with services
+6:23:07 PM  [main] 	there will be a security dialogue or things will break! So think 
+6:23:07 PM  [main] 	about running this application with administrator rights!
+6:23:07 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+6:23:07 PM  [main] 	Checking for prerequisites
+6:23:17 PM  [main] 	All prerequisites found
+6:23:17 PM  [main] 	Initializing Modules
+6:23:17 PM  [main] 	Starting Check-Timer
+6:23:17 PM  [main] 	Control Panel Ready
+9:51:02 PM  [main] 	Deinitializing Modules
+9:51:02 PM  [main] 	Deinitializing Control Panel
+
+4:14:26 PM  [main] 	Initializing Control Panel
+4:14:26 PM  [main] 	Windows Version:   64-bit
+4:14:26 PM  [main] 	XAMPP Version: 1.8.1
+4:14:26 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+4:14:26 PM  [main] 	You are not running with administrator rights! This will work for
+4:14:26 PM  [main] 	most application stuff but whenever you do something with services
+4:14:26 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:14:26 PM  [main] 	about running this application with administrator rights!
+4:14:26 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:14:26 PM  [main] 	Checking for prerequisites
+4:14:32 PM  [main] 	All prerequisites found
+4:14:32 PM  [main] 	Initializing Modules
+4:14:32 PM  [main] 	Starting Check-Timer
+4:14:32 PM  [main] 	Control Panel Ready
+4:14:36 PM  [Apache] 	Attempting to start Apache app...
+4:14:37 PM  [Apache] 	Status change detected: running
+4:14:37 PM  [mysql] 	Attempting to start MySQL app...
+4:14:39 PM  [mysql] 	Status change detected: running
+4:14:40 PM  [filezilla] 	Attempting to start FileZilla app...
+4:14:41 PM  [filezilla] 	Status change detected: running
+7:11:18 PM  [Apache] 	Attempting to stop Apache (PID: 9204)
+7:11:18 PM  [Apache] 	Attempting to stop Apache (PID: 4348)
+7:11:18 PM  [Apache] 	Status change detected: stopped
+7:11:18 PM  [mysql] 	Attempting to stop MySQL (PID: 8948)
+7:11:19 PM  [mysql] 	Status change detected: stopped
+7:11:19 PM  [filezilla] 	Attempting to stop FileZilla app...
+7:11:20 PM  [filezilla] 	Status change detected: stopped
+7:11:27 PM  [main] 	Deinitializing Modules
+7:11:27 PM  [main] 	Deinitializing Control Panel
+
+8:55:31 AM  [main] 	Initializing Control Panel
+8:55:31 AM  [main] 	Windows Version:   64-bit
+8:55:31 AM  [main] 	XAMPP Version: 1.8.1
+8:55:31 AM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+8:55:31 AM  [main] 	You are not running with administrator rights! This will work for
+8:55:31 AM  [main] 	most application stuff but whenever you do something with services
+8:55:31 AM  [main] 	there will be a security dialogue or things will break! So think 
+8:55:31 AM  [main] 	about running this application with administrator rights!
+8:55:31 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:55:31 AM  [main] 	Checking for prerequisites
+8:55:34 AM  [main] 	All prerequisites found
+8:55:34 AM  [main] 	Initializing Modules
+8:55:34 AM  [main] 	Starting Check-Timer
+8:55:34 AM  [main] 	Control Panel Ready
+8:55:36 AM  [Apache] 	Attempting to start Apache app...
+8:55:37 AM  [Apache] 	Status change detected: running
+8:55:37 AM  [mysql] 	Attempting to start MySQL app...
+8:55:39 AM  [filezilla] 	Attempting to start FileZilla app...
+8:55:41 AM  [mysql] 	Status change detected: running
+8:55:42 AM  [filezilla] 	Status change detected: running
+10:23:27 AM  [main] 	Deinitializing Modules
+10:23:27 AM  [main] 	Deinitializing Control Panel
+
+12:17:26 PM  [main] 	Initializing Control Panel
+12:17:26 PM  [main] 	Windows Version:   64-bit
+12:17:26 PM  [main] 	XAMPP Version: 1.8.1
+12:17:26 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+12:17:26 PM  [main] 	You are not running with administrator rights! This will work for
+12:17:26 PM  [main] 	most application stuff but whenever you do something with services
+12:17:26 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:17:26 PM  [main] 	about running this application with administrator rights!
+12:17:26 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:17:26 PM  [main] 	Checking for prerequisites
+12:17:28 PM  [main] 	All prerequisites found
+12:17:28 PM  [main] 	Initializing Modules
+12:17:28 PM  [main] 	Starting Check-Timer
+12:17:28 PM  [main] 	Control Panel Ready
+12:17:30 PM  [Apache] 	Attempting to start Apache app...
+12:17:31 PM  [mysql] 	Attempting to start MySQL app...
+12:17:33 PM  [filezilla] 	Attempting to start FileZilla app...
+12:17:35 PM  [filezilla] 	Status change detected: running
+12:17:35 PM  [mysql] 	Status change detected: running
+12:17:37 PM  [Apache] 	Status change detected: running
+12:18:46 PM  [Apache] 	Attempting to stop Apache (PID: 6300)
+12:18:46 PM  [Apache] 	Attempting to stop Apache (PID: 5248)
+12:18:46 PM  [Apache] 	Status change detected: stopped
+12:18:46 PM  [mysql] 	Attempting to stop MySQL (PID: 7444)
+12:18:47 PM  [mysql] 	Status change detected: stopped
+12:18:47 PM  [filezilla] 	Attempting to stop FileZilla app...
+12:18:47 PM  [filezilla] 	Status change detected: stopped
+12:48:32 PM  [main] 	Deinitializing Modules
+12:48:32 PM  [main] 	Deinitializing Control Panel
+
+12:50:36 PM  [main] 	Initializing Control Panel
+12:50:36 PM  [main] 	Windows Version:   64-bit
+12:50:36 PM  [main] 	XAMPP Version: 1.8.1
+12:50:36 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+12:50:36 PM  [main] 	You are not running with administrator rights! This will work for
+12:50:36 PM  [main] 	most application stuff but whenever you do something with services
+12:50:36 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:50:36 PM  [main] 	about running this application with administrator rights!
+12:50:36 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:50:36 PM  [main] 	Checking for prerequisites
+12:50:40 PM  [main] 	All prerequisites found
+12:50:40 PM  [main] 	Initializing Modules
+12:50:40 PM  [main] 	Starting Check-Timer
+12:50:40 PM  [main] 	Control Panel Ready
+12:50:42 PM  [Apache] 	Attempting to start Apache app...
+12:50:43 PM  [Apache] 	Status change detected: running
+12:50:43 PM  [mysql] 	Attempting to start MySQL app...
+12:50:45 PM  [filezilla] 	Attempting to start FileZilla app...
+12:50:45 PM  [mysql] 	Status change detected: running
+12:50:45 PM  [filezilla] 	Status change detected: running
+1:14:09 PM  [Apache] 	Attempting to stop Apache (PID: 444)
+1:14:09 PM  [Apache] 	Attempting to stop Apache (PID: 5068)
+1:14:09 PM  [mysql] 	Attempting to stop MySQL (PID: 1816)
+1:14:10 PM  [Apache] 	Status change detected: stopped
+1:14:10 PM  [mysql] 	Status change detected: stopped
+1:14:10 PM  [filezilla] 	Attempting to stop FileZilla app...
+1:14:11 PM  [filezilla] 	Status change detected: stopped
+3:54:09 PM  [main] 	Deinitializing Modules
+3:54:09 PM  [main] 	Deinitializing Control Panel
+
+4:39:16 PM  [main] 	Initializing Control Panel
+4:39:16 PM  [main] 	Windows Version:   64-bit
+4:39:16 PM  [main] 	XAMPP Version: 1.8.1
+4:39:16 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+4:39:16 PM  [main] 	You are not running with administrator rights! This will work for
+4:39:16 PM  [main] 	most application stuff but whenever you do something with services
+4:39:16 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:39:16 PM  [main] 	about running this application with administrator rights!
+4:39:16 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:39:16 PM  [main] 	Checking for prerequisites
+4:39:20 PM  [main] 	All prerequisites found
+4:39:20 PM  [main] 	Initializing Modules
+4:39:20 PM  [main] 	Starting Check-Timer
+4:39:20 PM  [main] 	Control Panel Ready
+4:39:23 PM  [Apache] 	Attempting to start Apache app...
+4:39:25 PM  [mysql] 	Attempting to start MySQL app...
+4:39:27 PM  [filezilla] 	Attempting to start FileZilla app...
+4:39:29 PM  [filezilla] 	Status change detected: running
+4:39:30 PM  [mysql] 	Status change detected: running
+4:39:36 PM  [Apache] 	Status change detected: running
+8:36:12 PM  [main] 	Deinitializing Modules
+8:36:12 PM  [main] 	Deinitializing Control Panel
+
+5:34:56 PM  [main] 	Initializing Control Panel
+5:34:56 PM  [main] 	Windows Version:   64-bit
+5:34:56 PM  [main] 	XAMPP Version: 1.8.1
+5:34:56 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+5:34:56 PM  [main] 	You are not running with administrator rights! This will work for
+5:34:56 PM  [main] 	most application stuff but whenever you do something with services
+5:34:56 PM  [main] 	there will be a security dialogue or things will break! So think 
+5:34:56 PM  [main] 	about running this application with administrator rights!
+5:34:56 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+5:34:56 PM  [main] 	Checking for prerequisites
+5:35:01 PM  [main] 	All prerequisites found
+5:35:01 PM  [main] 	Initializing Modules
+5:35:01 PM  [main] 	Starting Check-Timer
+5:35:01 PM  [main] 	Control Panel Ready
+5:35:36 PM  [Apache] 	Attempting to start Apache app...
+5:35:37 PM  [mysql] 	Attempting to start MySQL app...
+5:35:39 PM  [filezilla] 	Attempting to start FileZilla app...
+5:35:40 PM  [filezilla] 	Status change detected: running
+5:35:43 PM  [mysql] 	Status change detected: running
+5:35:44 PM  [Apache] 	Status change detected: running
+8:27:39 PM  [Apache] 	Attempting to stop Apache (PID: 4012)
+8:27:39 PM  [Apache] 	Attempting to stop Apache (PID: 2516)
+8:27:39 PM  [Apache] 	Status change detected: stopped
+8:27:40 PM  [mysql] 	Attempting to stop MySQL (PID: 3084)
+8:27:40 PM  [mysql] 	Status change detected: stopped
+8:27:41 PM  [filezilla] 	Attempting to stop FileZilla app...
+8:27:42 PM  [filezilla] 	Status change detected: stopped
+8:28:10 PM  [main] 	Deinitializing Modules
+8:28:10 PM  [main] 	Deinitializing Control Panel
+
+5:43:54 PM  [main] 	Initializing Control Panel
+5:43:54 PM  [main] 	Windows Version:   64-bit
+5:43:54 PM  [main] 	XAMPP Version: 1.8.1
+5:43:54 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+5:43:54 PM  [main] 	You are not running with administrator rights! This will work for
+5:43:54 PM  [main] 	most application stuff but whenever you do something with services
+5:43:54 PM  [main] 	there will be a security dialogue or things will break! So think 
+5:43:54 PM  [main] 	about running this application with administrator rights!
+5:43:54 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+5:43:54 PM  [main] 	Checking for prerequisites
+5:43:57 PM  [main] 	All prerequisites found
+5:43:57 PM  [main] 	Initializing Modules
+5:43:57 PM  [main] 	Starting Check-Timer
+5:43:57 PM  [main] 	Control Panel Ready
+5:44:01 PM  [Apache] 	Attempting to start Apache app...
+5:44:02 PM  [mysql] 	Attempting to start MySQL app...
+5:44:03 PM  [filezilla] 	Attempting to start FileZilla app...
+5:44:04 PM  [Apache] 	Status change detected: running
+5:44:04 PM  [filezilla] 	Status change detected: running
+5:44:11 PM  [mysql] 	Status change detected: running
+6:58:36 PM  [Apache] 	Attempting to stop Apache (PID: 9976)
+6:58:36 PM  [Apache] 	Attempting to stop Apache (PID: 6052)
+6:58:36 PM  [Apache] 	Status change detected: stopped
+6:58:37 PM  [mysql] 	Attempting to stop MySQL (PID: 9008)
+6:58:37 PM  [mysql] 	Status change detected: stopped
+6:58:37 PM  [filezilla] 	Attempting to stop FileZilla app...
+6:58:39 PM  [filezilla] 	Status change detected: stopped
+6:58:55 PM  [main] 	Deinitializing Modules
+6:58:55 PM  [main] 	Deinitializing Control Panel
+
+10:16:32 AM  [main] 	Initializing Control Panel
+10:16:32 AM  [main] 	Windows Version:   64-bit
+10:16:32 AM  [main] 	XAMPP Version: 1.8.1
+10:16:32 AM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+10:16:32 AM  [main] 	You are not running with administrator rights! This will work for
+10:16:32 AM  [main] 	most application stuff but whenever you do something with services
+10:16:32 AM  [main] 	there will be a security dialogue or things will break! So think 
+10:16:32 AM  [main] 	about running this application with administrator rights!
+10:16:32 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:16:33 AM  [main] 	Checking for prerequisites
+10:16:33 AM  [main] 	All prerequisites found
+10:16:33 AM  [main] 	Initializing Modules
+10:16:33 AM  [Apache] 	XAMPP Apache is already running on port 80
+10:16:33 AM  [Apache] 	XAMPP Apache is already running on port 443
+10:16:33 AM  [mysql] 	XAMPP MySQL is already running on port 3306
+10:16:33 AM  [filezilla] 	XAMPP FileZilla FTP Server is already running on port 21
+10:16:33 AM  [filezilla] 	XAMPP FileZilla FTP Server is already running on port 14147
+10:16:33 AM  [main] 	Starting Check-Timer
+10:16:33 AM  [main] 	Control Panel Ready
+10:16:35 AM  [Apache] 	Attempting to stop Apache (PID: 7568)
+10:16:35 AM  [Apache] 	Attempting to stop Apache (PID: 5252)
+10:16:36 AM  [Apache] 	Status change detected: stopped
+10:16:36 AM  [mysql] 	Attempting to stop MySQL (PID: 1276)
+10:16:37 AM  [mysql] 	Status change detected: stopped
+10:16:38 AM  [filezilla] 	Attempting to stop FileZilla app...
+10:16:39 AM  [filezilla] 	Status change detected: stopped
+10:18:58 AM  [main] 	Deinitializing Modules
+10:18:58 AM  [main] 	Deinitializing Control Panel
+
+8:02:27 AM  [main] 	Initializing Control Panel
+8:02:27 AM  [main] 	Windows Version:   64-bit
+8:02:27 AM  [main] 	XAMPP Version: 1.8.1
+8:02:27 AM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+8:02:27 AM  [main] 	You are not running with administrator rights! This will work for
+8:02:27 AM  [main] 	most application stuff but whenever you do something with services
+8:02:27 AM  [main] 	there will be a security dialogue or things will break! So think 
+8:02:27 AM  [main] 	about running this application with administrator rights!
+8:02:27 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:02:27 AM  [main] 	Checking for prerequisites
+8:02:36 AM  [main] 	All prerequisites found
+8:02:36 AM  [main] 	Initializing Modules
+8:02:36 AM  [main] 	Starting Check-Timer
+8:02:36 AM  [main] 	Control Panel Ready
+8:03:08 AM  [Apache] 	Attempting to start Apache app...
+8:03:11 AM  [mysql] 	Attempting to start MySQL app...
+8:03:14 AM  [filezilla] 	Attempting to start FileZilla app...
+8:03:16 AM  [filezilla] 	Status change detected: running
+8:03:20 AM  [mysql] 	Status change detected: running
+8:03:24 AM  [Apache] 	Status change detected: running
+10:16:36 AM  [Apache] 	Status change detected: stopped
+10:16:36 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+10:16:36 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:16:36 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:16:36 AM  [Apache] 	Check the "/xampp/apache/logs/error.log" file
+10:16:36 AM  [Apache] 	and the Windows Event Viewer for more clues
+10:16:37 AM  [mysql] 	Status change detected: stopped
+10:16:37 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:16:37 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:16:37 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:16:37 AM  [mysql] 	Check the "/xampp/mysql/data/mysql_error.log" file
+10:16:37 AM  [mysql] 	and the Windows Event Viewer for more clues
+10:16:39 AM  [filezilla] 	Status change detected: stopped
+10:16:39 AM  [filezilla] 	Error: FileZilla shutdown unexpectedly.
+10:16:39 AM  [filezilla] 	This may be due to a blocked port, missing dependencies, 
+10:16:39 AM  [filezilla] 	improper privileges, a crash, or a shutdown by another method.
+10:18:58 AM  [main] 	Deinitializing Modules
+10:18:58 AM  [main] 	Deinitializing Control Panel
+
+6:36:50 PM  [main] 	Initializing Control Panel
+6:36:50 PM  [main] 	Windows Version:   64-bit
+6:36:50 PM  [main] 	XAMPP Version: 1.8.1
+6:36:50 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+6:36:50 PM  [main] 	You are not running with administrator rights! This will work for
+6:36:50 PM  [main] 	most application stuff but whenever you do something with services
+6:36:50 PM  [main] 	there will be a security dialogue or things will break! So think 
+6:36:50 PM  [main] 	about running this application with administrator rights!
+6:36:50 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+6:36:50 PM  [main] 	Checking for prerequisites
+6:36:50 PM  [main] 	All prerequisites found
+6:36:50 PM  [main] 	Initializing Modules
+6:36:50 PM  [main] 	Starting Check-Timer
+6:36:50 PM  [main] 	Control Panel Ready
+6:36:53 PM  [Apache] 	Attempting to start Apache app...
+6:36:55 PM  [mysql] 	Attempting to start MySQL app...
+6:36:57 PM  [filezilla] 	Attempting to start FileZilla app...
+6:36:58 PM  [filezilla] 	Status change detected: running
+6:36:59 PM  [mysql] 	Status change detected: running
+6:37:02 PM  [Apache] 	Status change detected: running
+9:03:00 PM  [Apache] 	Attempting to stop Apache (PID: 4804)
+9:03:00 PM  [Apache] 	Status change detected: stopped
+9:03:01 PM  [mysql] 	Attempting to stop MySQL (PID: 3944)
+9:03:01 PM  [mysql] 	Status change detected: stopped
+9:03:02 PM  [filezilla] 	Attempting to stop FileZilla app...
+9:03:03 PM  [filezilla] 	Status change detected: stopped
+9:03:11 PM  [main] 	Deinitializing Modules
+9:03:11 PM  [main] 	Deinitializing Control Panel
+
+8:46:01 PM  [main] 	Initializing Control Panel
+8:46:01 PM  [main] 	Windows Version:   64-bit
+8:46:01 PM  [main] 	XAMPP Version: 1.8.1
+8:46:01 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+8:46:01 PM  [main] 	You are not running with administrator rights! This will work for
+8:46:01 PM  [main] 	most application stuff but whenever you do something with services
+8:46:01 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:46:01 PM  [main] 	about running this application with administrator rights!
+8:46:01 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:46:01 PM  [main] 	Checking for prerequisites
+8:46:04 PM  [main] 	All prerequisites found
+8:46:04 PM  [main] 	Initializing Modules
+8:46:04 PM  [main] 	Starting Check-Timer
+8:46:04 PM  [main] 	Control Panel Ready
+9:52:58 PM  [main] 	Deinitializing Modules
+9:52:58 PM  [main] 	Deinitializing Control Panel
+
+8:50:44 AM  [main] 	Initializing Control Panel
+8:50:44 AM  [main] 	Windows Version:   64-bit
+8:50:44 AM  [main] 	XAMPP Version: 1.8.1
+8:50:44 AM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+8:50:44 AM  [main] 	You are not running with administrator rights! This will work for
+8:50:44 AM  [main] 	most application stuff but whenever you do something with services
+8:50:44 AM  [main] 	there will be a security dialogue or things will break! So think 
+8:50:44 AM  [main] 	about running this application with administrator rights!
+8:50:44 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:50:44 AM  [main] 	Checking for prerequisites
+8:50:54 AM  [main] 	All prerequisites found
+8:50:54 AM  [main] 	Initializing Modules
+8:50:54 AM  [main] 	Starting Check-Timer
+8:50:54 AM  [main] 	Control Panel Ready
+8:50:57 AM  [Apache] 	Attempting to start Apache app...
+8:50:58 AM  [Apache] 	Status change detected: running
+8:50:59 AM  [mysql] 	Attempting to start MySQL app...
+8:51:01 AM  [mysql] 	Status change detected: running
+8:51:02 AM  [filezilla] 	Attempting to start FileZilla app...
+8:51:04 AM  [filezilla] 	Status change detected: running
+9:25:08 AM  [main] 	Deinitializing Modules
+9:25:08 AM  [main] 	Deinitializing Control Panel
+
+9:31:17 AM  [main] 	Initializing Control Panel
+9:31:17 AM  [main] 	Windows Version:   64-bit
+9:31:17 AM  [main] 	XAMPP Version: 1.8.1
+9:31:17 AM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+9:31:17 AM  [main] 	You are not running with administrator rights! This will work for
+9:31:17 AM  [main] 	most application stuff but whenever you do something with services
+9:31:17 AM  [main] 	there will be a security dialogue or things will break! So think 
+9:31:17 AM  [main] 	about running this application with administrator rights!
+9:31:17 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:31:17 AM  [main] 	Checking for prerequisites
+9:31:21 AM  [main] 	All prerequisites found
+9:31:21 AM  [main] 	Initializing Modules
+9:31:21 AM  [main] 	Starting Check-Timer
+9:31:21 AM  [main] 	Control Panel Ready
+9:32:02 AM  [Apache] 	Attempting to start Apache app...
+9:32:02 AM  [Apache] 	Status change detected: running
+9:32:03 AM  [mysql] 	Attempting to start MySQL app...
+9:32:05 AM  [filezilla] 	Attempting to start FileZilla app...
+9:32:06 AM  [filezilla] 	Status change detected: running
+9:32:07 AM  [mysql] 	Status change detected: running
+11:30:43 AM  [filezilla] 	Attempting to stop FileZilla app...
+11:30:45 AM  [mysql] 	Attempting to stop MySQL (PID: 6556)
+11:30:45 AM  [mysql] 	Status change detected: stopped
+11:30:45 AM  [filezilla] 	Status change detected: stopped
+11:30:46 AM  [Apache] 	Attempting to stop Apache (PID: 8076)
+11:30:46 AM  [Apache] 	Attempting to stop Apache (PID: 1380)
+11:30:46 AM  [Apache] 	Status change detected: stopped
+11:30:48 AM  [Apache] 	Attempting to start Apache app...
+11:30:48 AM  [Apache] 	Status change detected: running
+11:30:49 AM  [mysql] 	Attempting to start MySQL app...
+11:30:52 AM  [mysql] 	Status change detected: running
+11:30:53 AM  [filezilla] 	Attempting to start FileZilla app...
+11:30:54 AM  [filezilla] 	Status change detected: running
+12:30:17 PM  [Apache] 	Attempting to stop Apache (PID: 11940)
+12:30:17 PM  [Apache] 	Status change detected: stopped
+12:30:18 PM  [mysql] 	Attempting to stop MySQL (PID: 12044)
+12:30:18 PM  [mysql] 	Status change detected: stopped
+12:30:19 PM  [filezilla] 	Attempting to stop FileZilla app...
+12:30:19 PM  [filezilla] 	Status change detected: stopped
+12:30:29 PM  [main] 	Deinitializing Modules
+12:30:29 PM  [main] 	Deinitializing Control Panel
+
+11:40:06 AM  [main] 	Initializing Control Panel
+11:40:06 AM  [main] 	Windows Version:   64-bit
+11:40:06 AM  [main] 	XAMPP Version: 1.8.1
+11:40:06 AM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+11:40:06 AM  [main] 	You are not running with administrator rights! This will work for
+11:40:06 AM  [main] 	most application stuff but whenever you do something with services
+11:40:06 AM  [main] 	there will be a security dialogue or things will break! So think 
+11:40:06 AM  [main] 	about running this application with administrator rights!
+11:40:06 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:40:06 AM  [main] 	Checking for prerequisites
+11:40:10 AM  [main] 	All prerequisites found
+11:40:10 AM  [main] 	Initializing Modules
+11:40:10 AM  [main] 	Starting Check-Timer
+11:40:10 AM  [main] 	Control Panel Ready
+11:42:00 AM  [Apache] 	Attempting to start Apache app...
+11:42:07 AM  [mysql] 	Attempting to start MySQL app...
+11:42:10 AM  [filezilla] 	Attempting to start FileZilla app...
+11:42:13 AM  [filezilla] 	Status change detected: running
+11:42:16 AM  [Apache] 	Status change detected: running
+11:42:17 AM  [mysql] 	Status change detected: running
+11:51:28 AM  [main] 	Deinitializing Modules
+11:51:28 AM  [main] 	Deinitializing Control Panel
+
+6:41:55 PM  [main] 	Initializing Control Panel
+6:41:55 PM  [main] 	Windows Version:   64-bit
+6:41:55 PM  [main] 	XAMPP Version: 1.8.1
+6:41:55 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+6:41:55 PM  [main] 	You are not running with administrator rights! This will work for
+6:41:55 PM  [main] 	most application stuff but whenever you do something with services
+6:41:55 PM  [main] 	there will be a security dialogue or things will break! So think 
+6:41:55 PM  [main] 	about running this application with administrator rights!
+6:41:55 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+6:41:55 PM  [main] 	Checking for prerequisites
+6:41:58 PM  [main] 	All prerequisites found
+6:41:58 PM  [main] 	Initializing Modules
+6:41:58 PM  [main] 	Starting Check-Timer
+6:41:58 PM  [main] 	Control Panel Ready
+6:42:00 PM  [Apache] 	Attempting to start Apache app...
+6:42:01 PM  [Apache] 	Status change detected: running
+6:42:01 PM  [mysql] 	Attempting to start MySQL app...
+6:42:03 PM  [filezilla] 	Attempting to start FileZilla app...
+6:42:04 PM  [filezilla] 	Status change detected: running
+6:42:06 PM  [mysql] 	Status change detected: running
+7:32:55 PM  [filezilla] 	Attempting to stop FileZilla app...
+7:32:57 PM  [filezilla] 	Status change detected: stopped
+7:32:57 PM  [mysql] 	Attempting to stop MySQL (PID: 5800)
+7:32:57 PM  [mysql] 	Status change detected: stopped
+7:32:58 PM  [Apache] 	Attempting to stop Apache (PID: 4924)
+7:32:59 PM  [Apache] 	Status change detected: stopped
+7:33:31 PM  [main] 	Deinitializing Modules
+7:33:31 PM  [main] 	Deinitializing Control Panel
+
+8:52:45 PM  [main] 	Initializing Control Panel
+8:52:45 PM  [main] 	Windows Version:   64-bit
+8:52:45 PM  [main] 	XAMPP Version: 1.8.1
+8:52:45 PM  [main] 	Control Panel Version: 3.1.0 3.1.0 [ Compiled: September 20th 2012 ]
+8:52:45 PM  [main] 	You are not running with administrator rights! This will work for
+8:52:45 PM  [main] 	most application stuff but whenever you do something with services
+8:52:45 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:52:45 PM  [main] 	about running this application with administrator rights!
+8:52:45 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:52:45 PM  [main] 	Checking for prerequisites
+8:52:52 PM  [main] 	All prerequisites found
+8:52:52 PM  [main] 	Initializing Modules
+8:52:53 PM  [main] 	Starting Check-Timer
+8:52:53 PM  [main] 	Control Panel Ready
+8:55:49 PM  [Apache] 	Attempting to start Apache app...
+8:55:51 PM  [mysql] 	Attempting to start MySQL app...
+8:55:52 PM  [filezilla] 	Attempting to start FileZilla app...
+8:55:53 PM  [filezilla] 	Status change detected: running
+8:55:56 PM  [Apache] 	Status change detected: running
+8:55:56 PM  [mysql] 	Status change detected: running
+9:48:07 PM  [Apache] 	Attempting to stop Apache (PID: 7100)
+9:48:07 PM  [Apache] 	Attempting to stop Apache (PID: 8296)
+9:48:07 PM  [Apache] 	Status change detected: stopped
+9:48:08 PM  [mysql] 	Attempting to stop MySQL (PID: 7060)
+9:48:08 PM  [mysql] 	Status change detected: stopped
+9:48:09 PM  [filezilla] 	Attempting to stop FileZilla app...
+9:48:09 PM  [filezilla] 	Status change detected: stopped
+9:48:16 PM  [main] 	Deinitializing Modules
+9:48:16 PM  [main] 	Deinitializing Control Panel
+
